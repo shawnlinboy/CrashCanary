@@ -10,8 +10,14 @@ import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
+
 /**
+ ******************************************************************************
+ * Taken from the osama-raddad/FireCrasher source code, can be found in:
+ * https://github.com/osama-raddad/FireCrasher/blob/master/firecrasher/src/main/java/com/osama/firecrasher/FireLooper.java
+
  * Created by osama.
+ * ******************************************************************************
  */
 
 public class FireLooper implements Runnable {
